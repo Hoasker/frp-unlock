@@ -1,3 +1,3 @@
  # FRP UNLOCK
-<a href="https://hoasker.github.io/">FRP UNLOCK</a>
-This site was created to facilitate unlocking smartphones on the android operating system.
+
+This <a href="https://hoasker.github.io/" alt="FRP UNLOCK">site</a> was created to facilitate unlocking smartphones on the android operating system.
